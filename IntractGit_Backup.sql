@@ -7,6 +7,6 @@ GO
 
 
 -- Data for Employees
-INSERT INTO Employees VALUES (1, 'Muthu', 'Pandi', 'IT')
+INSERT INTO Employees VALUES (2, 'Muthu', 'Pandi', 'IT')
 
 
