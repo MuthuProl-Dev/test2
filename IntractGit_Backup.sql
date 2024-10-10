@@ -6,11 +6,7 @@ END;
 GO
 
 
--- Data for Products
-GO
-
 -- Data for Employees
 INSERT INTO Employees VALUES (1, 'Muthu', 'Pandi', 'IT')
-GO
 
 
