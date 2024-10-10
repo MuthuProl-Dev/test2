@@ -10,7 +10,7 @@ GO
 GO
 
 -- Data for Employees
-INSERT INTO Employees VALUES (2, 'Arshad', 'Ahamed', 'IT')
+INSERT INTO Employees VALUES (1, 'Muthu', 'Pandi', 'IT')
 GO
 
 
