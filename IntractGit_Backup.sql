@@ -7,7 +7,5 @@ GO
 
 
 -- Data for Employees
-INSERT INTO Employees VALUES (2, 'Muthu', 'Pandi', 'IT')
-INSERT INTO Employees VALUES (4, 'Anwar', 'Ali', 'IT')
-
-
+INSERT INTO [dbo].[Employees] (ID, FirstName, LastName, Department) VALUES (2, 'Muthu', 'Pandi', 'IT');
+INSERT INTO [dbo].[Employees] (ID, FirstName, LastName, Department) VALUES (4, 'Anwar', 'Ali', 'IT');
